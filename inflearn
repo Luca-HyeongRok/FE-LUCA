@@ -1,0 +1,14 @@
+-index.html-
+
+<html>
+    <head>
+        <script src="./chapter03.js"> </script>
+    </head>
+    <body>
+        Hello World
+    </body>
+</html>
+
+-chapter03.js-
+
+console.log("hi");
