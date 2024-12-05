@@ -1,14 +1,15 @@
--index.html-
+// -index.html-
 
 <html>
     <head>
-        <script src="./chapter03.js"> </script>
+        <script src="./chapter04.js"> </script> <!-- 경로가져오기-->
     </head>
     <body>
         Hello World
     </body>
 </html>
+<!-- html 에서 ctrl + shift + p -> live server(open with live server) -->
 
--chapter03.js-
+// -chapter03.js-
 
-console.log("hi");
+console.log("hi"); // 콘솔창에 메세지 입
